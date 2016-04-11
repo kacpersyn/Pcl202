@@ -3,7 +3,7 @@
 
 
 const int gridsize = 75; //Making this a global constant to avoid array issues.
-
+//hehehe dziala
 void Display(bool grid[gridsize+1][gridsize+1]){
     for(int a = 1; a < gridsize; a++){
         for(int b = 1; b < gridsize; b++){
